@@ -5,7 +5,7 @@ New remastered version by antor44, based on Esgrima by Antonio Millan - Abandonw
 
 Meteor a free MSX Basic game, developed with default Basic, no assembly. 
 
-How to play: Two players game, controlled with joysticks. You must touch the opposite 3 times, avoiding outs.
+How to play: Two players game, controlled with joysticks. You must touch the opposite 5 times, avoiding outs (max 3).
 
 
 Repository for downloads:
