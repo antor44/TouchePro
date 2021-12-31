@@ -3,16 +3,21 @@ Touche Pro, a MSX Basic Game.
 
 New remastered version by antor44, based on Esgrima by Antonio Millan (Abandonware).
 
-Meteor is a free MSX Basic game, developed with default Basic, no assembly. 
+Touche Pro is a free MSX Basic game, developed with default Basic, no assembly.
 
 How to play: Two players game controlled with joysticks. You must touch the opposite 5 times, avoiding outs (max 3).
 
+Repository for downloads: https://github.com/antor44/TouchePro
 
-Repository for downloads:
-https://github.com/antor44/meteor
 
 Requirements:
+
 -MSX 1/2/2+ Europe or USA BIOS
+
+-Or OpenMSX emulator with Basic ROM
+
+-Or WebMSX:  https://webmsx.org/
+
 
 For MSX turbo R Europe or USA BIOS add this Basic line:
 
