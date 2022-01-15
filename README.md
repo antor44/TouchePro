@@ -7,6 +7,10 @@ Touche Pro is a free MSX Basic game, developed with default Basic without insert
 
 How to play: Two players game controlled with keyboard and joystick 1. You must touch the opposite 5 times, avoiding outs (max 3).
 
+Play online (includes Net Play for remote play):
+https://webmsx.org/?MACHINE=MSX2E&ROM=https://github.com/antor44/TouchePro/raw/main/touche.rom
+
+
 Repository for downloads: https://github.com/antor44/TouchePro
 
 
